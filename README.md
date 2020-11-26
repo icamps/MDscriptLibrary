@@ -6,7 +6,7 @@ These scripts are intended to be used with MDAnalyis package (version 2.0.0-dev0
 
 If you don't know the segment names, you can use the script *get_segment_names* to identify them. With the segment names of the protein, ligand and solvent, you add them to the second script doMDAnalysis.
 
-The script doMDAnalysis will carry RMSD, RMSF, RadGyr, 2D-RMSD and CPA analysis, saving CSV files (to be used with your favorite plotting software and their respective images (in PNG format). These images files are intended to be used just as a guide, not as final/production images.
+The script doMDAnalysis will carry RMSD, RMSF, RadGyr, 2D-RMSD and PCA analysis, saving CSV files (to be used with your favorite plotting software and their respective images (in PNG format). In the *example* folder you will find some images files to be used just as a guide, not as final/production images.
 
 
 
