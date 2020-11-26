@@ -1,6 +1,6 @@
 # scriptLibrary
 
-These scripts are intended to be used with MDAnalyis package to do several analysis af Molecular Dynamics simulations.
+These scripts are intended to be used with MDAnalyis package to do several analysis of Molecular Dynamics simulations.
 
 **Note**: you need to have the topology and trajectories files from you preferable MD package.
 
