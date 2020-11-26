@@ -20,4 +20,5 @@ The script doMDAnalysis will carry RMSD, RMSF, RadGyr, 2D-RMSD and PCA analysis,
 - Installing Dev version: [https://userguide.mdanalysis.org/stable/contributing_code.html#build-mdanalysis-develop](https://userguide.mdanalysis.org/stable/contributing_code.html#build-mdanalysis-develop)
 - Basic example: [https://www.mdanalysis.org/pages/basic_example/](https://www.mdanalysis.org/pages/basic_example/)
 - Github repository: [https://github.com/MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
+- MDAnalysis forum: [https://groups.google.com/g/mdnalysis-discussion](https://groups.google.com/g/mdnalysis-discussion)
 
