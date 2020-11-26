@@ -11,6 +11,12 @@ The script doMDAnalysis will carry RMSD, RMSF, RadGyr, 2D-RMSD and CPA analysis,
 
 
 ## MDAnalysis:
-Main Site: [https://www.mdanalysis.org/](https://www.mdanalysis.org/)
-Documentation: [https://docs.mdanalysis.org/2.0.0-dev0/](https://docs.mdanalysis.org/2.0.0-dev0/)
+
+
+- Main Site: [https://www.mdanalysis.org/](https://www.mdanalysis.org/)
+- Documentation: [https://docs.mdanalysis.org/2.0.0-dev0/](https://docs.mdanalysis.org/2.0.0-dev0/)
+- User Guide’s: [https://userguide.mdanalysis.org/2.0.0-dev0/](https://userguide.mdanalysis.org/2.0.0-dev0/)
+- Installation Quick Start: [https://www.mdanalysis.org/pages/installation_quick_start/](https://www.mdanalysis.org/pages/installation_quick_start/)
+- Basic example: [https://www.mdanalysis.org/pages/basic_example/](https://www.mdanalysis.org/pages/basic_example/)
+- Github repository: [https://github.com/MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
 
